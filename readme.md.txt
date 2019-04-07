@@ -3,3 +3,6 @@
 #3rd line and this is again demo for git 
 
 #learning how to merge branches in git
+
+#Merging
+Merging means bring changes from one branch to another
